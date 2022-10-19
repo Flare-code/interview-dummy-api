@@ -3,14 +3,12 @@
     {
       "id": 632910392,
       "title": "IPod Nano - 8GB",
-      "body_html": "<p>It's the small iPod with one very big idea: Video. Now the world's most popular music player, available in 4GB and 8GB models, lets you enjoy TV shows, movies, video podcasts, and more. The larger, brighter display means amazing picture quality. In six eye-catching colors, iPod nano is stunning all around. And with models starting at just $149, little speaks volumes.</p>",
+      "body_html": "<p>It's the small iPod with one very big idea: Video. Now the world's most popular music player, available in 4GB and 8GB models.</p>",
       "vendor": "Apple",
       "product_type": "Cult Products",
       "created_at": "2022-09-28T16:37:04-04:00",
-      "handle": "ipod-nano",
-      "updated_at": "2022-09-28T16:37:04-04:00",
-      "published_at": "2007-12-31T19:00:00-05:00",
-      "tags": "Emotive, Flash Memory, MP3, Music",
+      "tags": "Emotive, Flash Memory, MP3, Music, Small",
+      "stockCount": 28,
       "options": [
         {
           "id": 594680422,
@@ -21,8 +19,56 @@
         }
       ],
       "image": {
+        "alt": "a photo of an iPod Nano",
+        "src": "https://raw.githubusercontent.com/Flare-code/interview-dummy-api/master/ipod-nano.jpeg"
+      }
+    },
+    {
+      "id": 632910958,
+      "title": "IPod Touch - 16GB",
+      "body_html": "<p>Now the world's most popular music player, available in 16GB and 32GB models.</p>",
+      "vendor": "Apple",
+      "product_type": "Cult Products",
+      "created_at": "2022-09-28T16:37:04-04:00",
+      "updated_at": "2022-09-28T16:37:04-04:00",
+      "published_at": "2007-12-31T19:00:00-05:00",
+      "tags": "Emotive, Flash Memory, MP3, Music",
+      "stockCount": 0,
+      "options": [
+        {
+          "id": 594680423,
+          "product_id": 632910958,
+          "name": "Color",
+          "position": 1,
+          "values": ["Pink", "Red", "Green", "Black"]
+        }
+      ],
+      "image": {
         "alt": "a photo of an iPod Touch",
-        "src": "https://cdn.shopify.com/s/files/1/0005/4838/0009/products/ipod-nano.png?v=1664397424"
+        "src": "https://raw.githubusercontent.com/Flare-code/interview-dummy-api/master/ipod-touch.jpeg"
+      }
+    },
+    {
+      "id": 632910959,
+      "title": "iPhone 13 - 164GB",
+      "body_html": "<p>The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface.</p>",
+      "vendor": "Apple",
+      "product_type": "Cult Products",
+      "created_at": "2022-09-28T16:37:04-04:00",
+      "tags": "Camera, iPhone, MP3, Music",
+      "stockCount": 13,
+      "options": [
+        {
+          "id": 594680494,
+          "product_id": 632910959,
+          "name": "Color",
+          "position": 1,
+          "values": ["Pink", "Red", "Green", "Black"]
+        }
+      ],
+      "image": {
+        "alt": "a photo of an iPhone",
+        "src": "https://raw.githubusercontent.com/Flare-code/interview-dummy-api/master/iPhone.jpeg"
       }
     }
   ]
