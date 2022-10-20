@@ -70,6 +70,52 @@
         "alt": "a photo of an iPhone",
         "src": "https://raw.githubusercontent.com/Flare-code/interview-dummy-api/master/iPhone.jpeg"
       }
+    },
+    {
+      "id": 632910960,
+      "title": "Airpods",
+      "body_html": "<p>The Airpods are made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface.</p>",
+      "vendor": "Apple",
+      "product_type": "Cult Products",
+      "created_at": "2022-09-28T16:37:04-04:00",
+      "tags": "MP3, Music, earphones",
+      "stockCount": 13,
+      "options": [
+        {
+          "id": 594680495,
+          "product_id": 632910960,
+          "name": "Color",
+          "position": 1,
+          "values": ["Pink", "Red", "Green", "Black"]
+        }
+      ],
+      "image": {
+        "alt": "a photo of Airpods",
+        "src": "https://raw.githubusercontent.com/Flare-code/interview-dummy-api/master/iPhone.jpeg"
+      }
+    },
+    {
+      "id": 632910960,
+      "title": "Macbook Pro",
+      "body_html": "<p>The Airpods are made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface.</p>",
+      "vendor": "Apple",
+      "product_type": "Cult Products",
+      "created_at": "2022-09-28T16:37:04-04:00",
+      "tags": "MP3, Music, Laptop",
+      "stockCount": 13,
+      "options": [
+        {
+          "id": 594680495,
+          "product_id": 632910960,
+          "name": "Color",
+          "position": 1,
+          "values": ["Pink", "Red", "Green", "Black"]
+        }
+      ],
+      "image": {
+        "alt": "a photo of MacBook",
+        "src": "https://raw.githubusercontent.com/Flare-code/interview-dummy-api/master/iPhone.jpeg"
+      }
     }
   ]
 }
